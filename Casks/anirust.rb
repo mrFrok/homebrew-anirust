@@ -1,6 +1,6 @@
 cask "anirust" do
-  version "1.1.1"
-  sha256 "c7524702616b92d4b909e65ed598d35796fb4686c6e54ee188efafca9f5e3ad8"
+  version "1.1.2"
+  sha256 "42242ee9fe489a01281eb2c08d402d46584f5c93270db13352ad76c672a1b705"
 
   url "https://github.com/mrFrok/AniRust/releases/download/v#{version}/anirust-#{version}-macos-arm64.dmg"
   name "AniRust"
