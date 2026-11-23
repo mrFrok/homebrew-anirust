@@ -1,8 +1,8 @@
 class Anirust < Formula
   desc "Desktop client for Anixart with an mpv player"
   homepage "https://github.com/mrFrok/AniRust"
-  url "https://github.com/mrFrok/AniRust/archive/refs/tags/v1.1.3.tar.gz"
-  sha256 "9ea9ab741ad91a3cb377397e76bce59f9a961633f3504c1ed403ce9716b00ce1"
+  url "https://github.com/mrFrok/AniRust/archive/refs/tags/v1.1.4.tar.gz"
+  sha256 "c958e7c6413da4f3bf218bb86096be749779caea227f361dc866b709371489f9"
   license "GPL-3.0-or-later"
 
   depends_on :linux
